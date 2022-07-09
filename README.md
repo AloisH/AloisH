@@ -2,11 +2,10 @@
 
 <br/>
 
-# I design and develop software.
+# I am a software engineer
 
 - 🌱 I am currently a student at EPITA
 - 🔭 I like UX/UI Design
-- 🥅 I want to become a Fullstack developer
 
 <br/>
 
