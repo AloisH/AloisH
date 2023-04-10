@@ -2,13 +2,6 @@
 
 <br/>
 
-# I am a software engineer
-
-- 🌱 I am currently a student at EPITA
-- 🔭 I like UX/UI Design
-
-<br/>
-
 ### Connect with me
 
 [<img align="left" alt="heloir.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
